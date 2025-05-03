@@ -11,6 +11,10 @@
 ### Books
 - [Transposable elements](https://www.amazon.com/Transposable-Elements-Current-Microbiology-Immunology/dp/3642797970/) - A classic book from 1996
 
+## Journals
+
+- [Mobile DNA at Biomed Central](https://mobilednajournal.biomedcentral.com/)
+
 ## Conferences
 
 - [The Mobile Genome at EMBL](https://www.embl.org/about/info/course-and-conference-office/events/mge25-01/) - Conference in November 2025
