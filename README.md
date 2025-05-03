@@ -1,4 +1,4 @@
-# Awesome Transposable Elements (TEs)
+# Awesome Mobile DNA (such as Transposable Elements (TEs))
 
 ## Learning resources
 
